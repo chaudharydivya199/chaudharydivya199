@@ -1,4 +1,4 @@
-![](Assets/github-header-image.png)
+![](Assets/github-header-image.png){:height="100px" width="100px"}
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=chaudharydivya199&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chaudharydivya199&theme=radical&hide_border=false)<br/>
