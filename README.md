@@ -3,6 +3,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br>
 
 - 💡 I'm currently working on some cool side projects!
 - ☘ I'm currently improving my data structures & algorithms concepts.
