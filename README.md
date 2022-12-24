@@ -24,7 +24,8 @@
 - 😀 Pronouns: she/her
 - ⚡ Fun fact: **Best Part Of The Journey Is** : It Ends.
 
-
+<br />
+<br />
 <!-- GitHub Stats -->
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chaudharydivya199&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
