@@ -6,6 +6,5 @@
 
 - 💡 I'm currently working on some cool side projects!
 - ☘ I'm currently improving my data structures & algorithms concepts.
-- 📡 How to reach me: [Mail Me](mailto:kalash.strt@gmail.com)
-- 🤝I'm looking for help with **NextJS**
-- 😀 Pronouns: he/him
+- 📡 How to reach me: [Mail Me](mailto:chaudharydivya193@gmail.com)
+- 😀 Pronouns: she/her
