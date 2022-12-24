@@ -9,5 +9,5 @@
 - ☘ I'm currently learning React and improving my data <br> structures & algorithms concepts.
 - 📡 How to reach me: [Mail Me](mailto:chaudharydivya193@gmail.com)
 - 😀 Pronouns: she/her
-- ⚡ Fun fact: Best Part Of The Journey Is : It Ends.
+- ⚡ Fun fact: **Best Part Of The Journey Is** : It Ends.
 
