@@ -9,7 +9,8 @@
 - 💡 I'm currently working on some cool side projects!
 - ☘ I'm currently learning React and improving my data &nbsp; structures & algorithms concepts.
 - 📡 How to reach me: [Mail Me](mailto:chaudharydivya193@gmail.com)
--  💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask me about Frontend and Android Development.
 - 😀 Pronouns: she/her
 - ⚡ Fun fact: **Best Part Of The Journey Is** : It Ends.
 
+𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here]
