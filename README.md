@@ -5,7 +5,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💡 I'm currently working on some cool side projects!
+
+&nbsp;&nbsp;&nbsp;- 💡 I'm currently working on some cool side projects!
 - ☘ I'm currently learning React and improving my data &nbsp; structures & algorithms concepts.
 - 📡 How to reach me: [Mail Me](mailto:chaudharydivya193@gmail.com)
 - 😀 Pronouns: she/her
