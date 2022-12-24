@@ -9,3 +9,4 @@
 - ☘ I'm currently improving my data structures & algorithms concepts.
 - 📡 How to reach me: [Mail Me](mailto:chaudharydivya193@gmail.com)
 - 😀 Pronouns: she/her
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : 𝙸𝚝 𝙴𝚗𝚍𝚜.
