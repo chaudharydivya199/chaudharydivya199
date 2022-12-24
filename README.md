@@ -20,7 +20,7 @@
 - 💡 I'm currently working on some cool side projects!
 - ☘ I'm currently learning React and improving my data &nbsp; structures & algorithms concepts.
 - 📡 How to reach me: [Mail Me](mailto:chaudharydivya193@gmail.com)
-- 💬 Ask me about Frontend and Android Development.
+- 💬 Ask me about Frontend Development.
 - 😀 Pronouns: she/her
 - ⚡ Fun fact: **Best Part Of The Journey Is** : It Ends.
 
