@@ -25,7 +25,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats <hr></br>
 <br>
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chaudharydivya199&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
