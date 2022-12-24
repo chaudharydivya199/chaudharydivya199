@@ -25,3 +25,9 @@
 - ⚡ Fun fact: **Best Part Of The Journey Is** : It Ends.
 
 
+<!-- GitHub Stats -->
+<div align="center">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=chaudharydivya199&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
+<img width="400" src="https://streak-stats.demolab.com?user=chaudharydivya199&theme=highcontrast" alt="github readme streak stats" />
+</div>
+
