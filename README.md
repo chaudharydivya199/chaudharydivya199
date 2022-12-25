@@ -69,8 +69,8 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chaudharydivya199&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
 <img width="400" src="https://streak-stats.demolab.com?user=chaudharydivya199&theme=highcontrast" alt="github readme streak stats" />
 </div>
+  <br>
+  <br>
 
 
 
-
-https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80
