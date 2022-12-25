@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<h3><img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60" > Connect with me :  </h3>
+<h3><img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60" height="60"> Connect with me :  </h3>
  </div>
  
 <div align="center">
