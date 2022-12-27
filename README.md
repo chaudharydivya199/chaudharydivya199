@@ -48,7 +48,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-2-1175090.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" width="200"></td>
   </tr>
 
 </table>
