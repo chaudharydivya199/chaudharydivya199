@@ -27,7 +27,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.hackerrank.com/chaudharydivya11" target="_blank">
-    <img align="center" alt="Hackerrank" width="25px" src="https://osandadeshan.github.io/assets/img/hackerrank.png" />
+    <img align="center" alt="Hackerrank" width="25px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.codechef.com/users/divya2862" target="_blank">
