@@ -23,7 +23,7 @@
   
   
   <a href="https://leetcode.com/DIVYA_2862/" target="_blank">
-    <img align="center" alt="Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.pngg" />
+    <img align="center" alt="Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.hackerrank.com/chaudharydivya11" target="_blank">
