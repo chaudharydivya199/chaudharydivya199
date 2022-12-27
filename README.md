@@ -13,29 +13,29 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/chaudharydivya199" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   
   <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="TienHuynh-TN | Instagram" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
   
   <a href="https://leetcode.com/DIVYA_2862/" target="_blank">
-    <img align="center" alt="Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
+    <img align="center" alt="Leetcode" width="25px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.hackerrank.com/chaudharydivya11" target="_blank">
-    <img align="center" alt="Hackerrank" width="24px" src="https://osandadeshan.github.io/assets/img/hackerrank.png" />
+    <img align="center" alt="Hackerrank" width="25px" src="https://osandadeshan.github.io/assets/img/hackerrank.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.codechef.com/users/divya2862" target="_blank">
-    <img align="center" alt="Codechef" width="24px" src="https://storage.googleapis.com/kaggle-datasets-images/445/913/949f040bfb8ac14b4271103795b31797/dataset-card.png" />
+    <img align="center" alt="Codechef" width="25px" src="https://storage.googleapis.com/kaggle-datasets-images/445/913/949f040bfb8ac14b4271103795b31797/dataset-card.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://auth.geeksforgeeks.org/user/chaudharydivya193/practice/" target="_blank">
-    <img align="center" alt="GFG" width="24px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" />
+    <img align="center" alt="GFG" width="25px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210205161739/Screenshot-2021-02-05-161721.png" />
   </a> &nbsp;&nbsp;
  
   
