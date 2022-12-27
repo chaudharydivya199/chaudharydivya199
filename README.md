@@ -22,6 +22,23 @@
   </a> &nbsp;&nbsp;
   
   
+  <a href="https://leetcode.com/DIVYA_2862/" target="_blank">
+    <img align="center" alt="Leetcode" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.pngg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.hackerrank.com/chaudharydivya11" target="_blank">
+    <img align="center" alt="Hackerrank" width="24px" src="https://tse3.mm.bing.net/th?id=OIP.pY8O2C_T47berB4eU-qZ5AHaHa&pid=Api&P=0" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.codechef.com/users/divya2862" target="_blank">
+    <img align="center" alt="Codechef" width="24px" src="https://tse4.mm.bing.net/th?id=OIP.B92B1ItWgEY4ZgrOwsqZrQAAAA&pid=Api&P=0" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://auth.geeksforgeeks.org/user/chaudharydivya193/practice/" target="_blank">
+    <img align="center" alt="GFG" width="24px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" />
+  </a> &nbsp;&nbsp;
+ 
+  
 <p> 
   
 </div>
