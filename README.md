@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-<span><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"" width = 35px></span><h2>Connect with me<h2>
+<span><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"" width = 35px></span><h2 align="center">Connect with me<h2>
  </p>
  
 <div align="center">
