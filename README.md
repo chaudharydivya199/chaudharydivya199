@@ -35,7 +35,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://auth.geeksforgeeks.org/user/chaudharydivya193/practice/" target="_blank">
-    <img align="center" alt="GFG" width="25px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210205161739/Screenshot-2021-02-05-161721.png" />
+    <img align="center" alt="GFG" width="25px" src="https://img.icons8.com/color/512/GeeksforGeeks.png" />
   </a> &nbsp;&nbsp;
  
   
