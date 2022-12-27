@@ -1,8 +1,9 @@
 <img src="Assets/github-header-image%20(4).png" width=100% height=20%/>
 
 
-<h2 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"" width = 35px />Connect with me :</h2>
-<div align="center">
+div align="center">
+<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"" width = 35px />Connect with me :</h2>
+
 <p>
   <a href="mailto:chaudharydivya193@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
