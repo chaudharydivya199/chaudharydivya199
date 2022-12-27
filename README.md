@@ -80,7 +80,7 @@
       <tr>
     <td><img src="https://tse1.mm.bing.net/th?id=OIP.GVHKR2sgnfmMTmeiUlPmpQHaFc&pid=Api&rs=1&c=1&qlt=95&w=162&h=119" width="150"></td>
     <td><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" width="150"></td>
-      <td><img src="https://tse1.mm.bing.net/th?id=OIP.FwbJ8WvQjrXgPx3z4KlKHAHaHa&pid=Api&P=0" width="150"></td>
+      <td><img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="150"></td>
   </tr>
 
 </table>
