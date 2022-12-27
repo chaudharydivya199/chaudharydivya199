@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-<h1><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 35px></picture> Connect with me</h1>
+<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 36px></picture> Connect with me</h2>
 
 <p>
   <a href="mailto:chaudharydivya193@gmail.com" >
