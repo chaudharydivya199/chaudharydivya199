@@ -1,8 +1,8 @@
 <img src="Assets/github-header-image%20(4).png" width=100% height=20%/>
 
-
+<br>
 <div align="center">
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 35px></picture> **Connect with me**
+<h1><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 35px></picture> Connect with me</h1>
 
 <p>
   <a href="mailto:chaudharydivya193@gmail.com" >
