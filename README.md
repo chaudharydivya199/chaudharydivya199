@@ -43,10 +43,10 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="150></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="150"></td>
 <td><img src="https://user-images.githubusercontent.com/33717111/172707380-ecda970a-60d1-4445-b2f2-6c1e6b8a4e46.png" width="150"></td>
- 
     <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="150"></td>
     <td><img src="https://tse4.mm.bing.net/th?id=OIP.L9ZhGhRn1Hyec_yctPJgpQHaJm&pid=Api&P=0" width="150"></td>
       </tr>
+      
       <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="150"></td>
     <td><img src="https://tse1.mm.bing.net/th?id=OIP.GVHKR2sgnfmMTmeiUlPmpQHaFc&pid=Api&rs=1&c=1&qlt=95&w=162&h=119" width="150"></td>
