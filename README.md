@@ -27,7 +27,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.hackerrank.com/chaudharydivya11" target="_blank">
-    <img align="center" alt="Hackerrank" width="24px" src="https://tse3.mm.bing.net/th?id=OIP.pY8O2C_T47berB4eU-qZ5AHaHa&pid=Api&P=0" />
+    <img align="center" alt="Hackerrank" width="24px" src="https://osandadeshan.github.io/assets/img/hackerrank.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.codechef.com/users/divya2862" target="_blank">
