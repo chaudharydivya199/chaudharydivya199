@@ -1,9 +1,9 @@
 <img src="Assets/github-header-image%20(4).png" width=100% height=25%/>
 <br>
 
-<p align="center">
-<span><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"" width = 35px></span><h2 align="center">Connect with me<h2>
- </p>
+
+<h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"" width = 35px />Connect with me :<h1>
+
  
 <div align="center">
 
