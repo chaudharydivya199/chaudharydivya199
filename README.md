@@ -2,9 +2,7 @@
 
 
 <div align="center">
-<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 45px></picture> Connect with me : </h2>
-
-
+<h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 55px></picture> Connect with me : </h2>
   <a href="mailto:chaudharydivya193@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
