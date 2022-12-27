@@ -31,7 +31,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.codechef.com/users/divya2862" target="_blank">
-    <img align="center" alt="Codechef" width="25px" src="https://img.icons8.com/ios/512/codechef.png" />
+    <img align="center" alt="Codechef" width="25px" src="https://img.icons8.com/color/512/codechef.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://auth.geeksforgeeks.org/user/chaudharydivya193/practice/" target="_blank">
