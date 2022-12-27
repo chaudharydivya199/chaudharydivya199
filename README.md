@@ -17,7 +17,7 @@
   </a> &nbsp;&nbsp;
   
   
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
+  <a href="https://www.instagram.com/divyachaudhary_28" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="25px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
@@ -39,7 +39,7 @@
   </a> &nbsp;&nbsp;
  
   
-<p> 
+</p> 
   
 </div>
 
@@ -59,8 +59,7 @@
 
 
 
-
-## <b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂<b> 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> **Languages and Tools**
 <br>
 <table>
   <tr>
