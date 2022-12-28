@@ -86,7 +86,8 @@
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=chaudharydivya199&theme=vision-friendly-dark&show_icons=true" alt="github readme stats" />  
 <img width="400" src="https://streak-stats.demolab.com?user=chaudharydivya199&theme=highcontrast" alt="github readme streak stats" />
-        <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+      <br>
+<img a height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharydivya199&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </div>
   <br>
   <br>
